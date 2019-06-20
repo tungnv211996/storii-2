@@ -1,0 +1,15 @@
+.payment_type_card{
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.payment_type_card:hover,
+.payment_selected{
+    border-color: #03a9f3;
+}
+
+.chanel_name{
+    font-weight: 400;
+}
