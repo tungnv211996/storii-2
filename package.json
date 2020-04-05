@@ -83,7 +83,7 @@
         "ip": "1.1.5",
         "jquery": "^3.4.1",
         "lodash": "4.17.11",
-        "minimist": "1.2.0",
+        "minimist": "1.2.3",
         "mobx": "^5.9.4",
         "mobx-persist": "^0.4.1",
         "mobx-react": "^5.4.3",
