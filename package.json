@@ -82,7 +82,7 @@
         "invariant": "2.2.4",
         "ip": "1.1.5",
         "jquery": "^3.4.1",
-        "lodash": "4.17.11",
+        "lodash": "4.17.19",
         "minimist": "1.2.0",
         "mobx": "^5.9.4",
         "mobx-persist": "^0.4.1",
